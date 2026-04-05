@@ -26,16 +26,16 @@ Description: Contains customer demographic and financial attributes such as Age,
 
 Dataset Features
 
-Customer_ID
-Age
-Gender
-Tenure
-Balance
-CreditScore
-EstimatedSalary
-NumOfProducts
-IsActiveMember
-Churn
+- Customer_ID
+- Age
+- Gender
+- Tenure
+- Balance
+- CreditScore
+- EstimatedSalary
+- NumOfProducts
+- IsActiveMember
+- Churn
 
 The dataset simulates real-world customer behavior data for 100,000 customers.
 
