@@ -70,12 +70,16 @@ The dataset simulates real-world customer behavior data for 100,000 customers.
 ### **3. Visualization**
 The project includes:
 
-- Bar Charts: Churn distribution across gender and activity status.
 - Pie Charts: Percentage of churn vs non-churn customers.
+<img width="536" height="560" alt="image" src="https://github.com/user-attachments/assets/25047d9e-819f-450f-99ab-f40332b2ef86" />
 - Histograms: Distribution of balance and credit score.
+<img width="783" height="521" alt="image" src="https://github.com/user-attachments/assets/09176e0c-08a0-400e-a72f-d7a61f5d05a1" />
 - Scatter Plots: Balance vs churn and credit score vs churn.
+<img width="981" height="607" alt="image" src="https://github.com/user-attachments/assets/0bff4fab-2d5b-4abf-acee-c51383e33705" />
 - Box Plots: Detecting outliers in salary and balance.
+<img width="636" height="504" alt="image" src="https://github.com/user-attachments/assets/9a285b58-0d9e-4134-8463-b4a9b7d24798" />
 - Heatmaps: Correlation between all customer attributes.
+<img width="853" height="671" alt="image" src="https://github.com/user-attachments/assets/9071410e-fbe7-4117-ab8e-c0843f07c019" />
  
 Visualizations make business insights easy to understand and interpret.
 
